@@ -7,4 +7,6 @@ The other two .py files are tests and examples I found online. <br>
 Since I do not want a lot of repositories named after xxx spider, <br>
 All the test&learn .py files will be put here <br>
 Hope to develop a master skill of net crawler! <br>
-To be Continued...
+To be Continued...<br>
+
+6.25 更新股票信息爬虫<br>
